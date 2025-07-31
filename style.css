@@ -1,0 +1,16 @@
+
+body {
+    background-color: #d6eaf8;
+    font-family: 'Cookie', cursive;
+    text-align: center;
+    padding: 20px;
+}
+img {
+    width: 200px;
+    border-radius: 20px;
+}
+a {
+    display: block;
+    margin-top: 20px;
+    font-size: 24px;
+}
